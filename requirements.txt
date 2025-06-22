@@ -5,5 +5,5 @@ scikit-learn
 matplotlib
 seaborn
 plotly
-tensorflow
 keras
+tensorflow==2.12.0
